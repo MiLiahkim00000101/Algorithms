@@ -1,0 +1,1 @@
+This is a backtracking algorithm of permutations searching. I expected it being helpful for solving this task, but unfortunately not:()
