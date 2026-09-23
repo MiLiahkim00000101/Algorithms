@@ -1,3 +1,3 @@
 all:
 	mkdir -p build
-	gcc main.c -o build/main && ./build/main < in.txt > out.txt
+	g++ main.cpp -o build/main && ./build/main < in.txt > out.txt
